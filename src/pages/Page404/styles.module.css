@@ -1,0 +1,9 @@
+
+.wrapper{
+	display: flex;
+	justify-content: center;
+}
+.text{
+font-size: 20px;
+font-weight: 700;
+}

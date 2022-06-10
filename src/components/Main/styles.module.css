@@ -1,0 +1,25 @@
+main {
+	height: 100%;
+	background-color: #fff;
+	flex: 1 1 auto;
+	display: flex;
+	font-family: "Roboto";
+	margin: 0 auto;
+}
+table {
+	border: 1px solid #000;
+}
+tbody td:first-child {
+	width: 117px;
+}
+
+.table-container{
+	height: 850px;
+	
+}
+
+@media (max-width:1024px) {
+	.table-container{
+		height: 100%
+	}
+}
